@@ -40,6 +40,7 @@ Build a simple **text-based Notes Manager App** using Java, where users can add,
 3. **Compile the Java file**:
    ```bash
    javac NotesApp.java
+---
 📂 File Structure
 bash
 Copy
