@@ -41,14 +41,6 @@ Build a simple **text-based Notes Manager App** using Java, where users can add,
    ```bash
    javac NotesApp.java
 ---
-📂 File Structure
-bash
-Copy
-Edit
-.
-├── NotesApp.java     # Main Java program file
-├── notes.txt         # Auto-created text file to store notes
-├── README.md         # Project documentation and guide
 
 🧠 What We Have Learned
 This project helped us learn the following core Java concepts:
